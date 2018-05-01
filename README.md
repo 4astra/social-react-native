@@ -5,8 +5,8 @@ YourAds help you to advertise products to audiences at Vietnam as well as in the
 Here is a quick start guide:
 
 ```
-git clone https://bitbucket.org/123xyz/yourads-reactnative
-cd yourads-reactnative
+git clone https://github.com/brianha289/social-react-native
+cd social-react-native/yourads
 yarn install
 react-native run-ios
 ```
