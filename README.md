@@ -113,7 +113,7 @@ Read the **[Deployment guide](docs/DEPLOYMENT.md)** to learn how to deploy the a
 
 ## Contributing
 
-If you find any problems, please [open an issue] to this repo https://bitbucket.org/123xyz/yourads-reactnative)
+If you find any problems, please [open an issue] to this repo https://github.com/brianha289/social-react-native)
 
 ## License
 
